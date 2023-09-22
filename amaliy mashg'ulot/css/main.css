@@ -1,0 +1,59 @@
+body {
+    background-color: #00D8AF;
+}
+
+.basic {
+    width: 950px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+span {
+    color: black;
+}
+
+
+p {
+
+    text-transform: uppercase;
+    color: gray;
+}
+
+.one {
+    color: gray;
+}
+
+.two {
+    color: yellow;
+
+}
+
+.three {
+    color: rgb(144, 77, 77);
+}
+
+.price1 {
+    color: gray;
+    font-size: 36px;
+}
+
+.price2 {
+    font-size: 36px;
+    color: rgb(red, green, blue);
+}
+
+.price3 {
+    color: rgb(144, 77, 77);
+    font-size: 36px;
+}
